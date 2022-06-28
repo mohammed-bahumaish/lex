@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "iosfwd": "cpp",
+    "string.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "Disabled",
+  "cSpell.words": ["closelineno", "openlineno"]
+}
